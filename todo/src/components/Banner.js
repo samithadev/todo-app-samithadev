@@ -6,7 +6,7 @@ export default function Banner() {
   return (
     <div class="border-solid border-[#d0d5dd] overflow-hidden bg-white flex md:flex-row justify-center gap-6 md:gap-20 items-center mx-6 border rounded-lg md:w-[1120px] p-3 md:p-0">
   <div class="md:w-[800px] w-auto items-start">
-    <div class="text-2xl font-['Inter'] font-semibold tracking-[-0.48] leading-[32px]">
+    <div class="text-2xl font-['Inter'] font-semibold leading-[32px]">
       Welcome back, John Doe
     </div>
     <div class="text-sm font-['Inter'] leading-[24px] text-[#757575] w-full">
