@@ -10,7 +10,7 @@ export default function Layout() {
             <div className="hidden md:flex fixed left-0 top-0 h-full ">
                 <Sidebar />
             </div>
-            <div className="fixed w-[1268px] ml-[272px]">
+            <div className="fixed md:w-[1268px] md:ml-[272px] ml-0 w-full">
                 <Header />
             </div>
 
